@@ -1,0 +1,12 @@
+name: WGBuildMode
+main: me.DuppyIsCool.WGBuildMode.Main.Main
+author: DuppyIsCool
+version: 1.0
+api-version: 1.16
+description: WorldGuard build mode
+depend: [WorldGuard]
+commands:
+    build:
+        description: Toggles build mode
+        usage: /<command>
+        permission: WGBuildMode.build

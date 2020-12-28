@@ -1,0 +1,23 @@
+#Leave blank for no message. (example: "")
+messages:
+    enterModeMessage: "&aYou have entered build mode"
+    leaveModeMessage: "&eYou have left build mode"
+    denyBuildMessage: "&cYou may not edit blocks without build mode"
+#Which text zone should the message use?
+#Areas are: action_bar, title, subtitle, chat
+#Warning: Titles/Subtitles only work for 1.8+, and action_bar for 1.9+
+area:
+    enterModeArea: "action_bar"
+    leaveModeArea: "action_bar"
+    denyBuildArea: "action_bar"
+#World guard settings
+settings:
+    #Block everywhere (Even outside regions)
+    blockEverywhere: false
+
+    #What regions should build mode not work in
+    #These are regions where terrain can be modified without regard to build mode
+    whitelistedRegions:
+        - 'test_region'
+    
+    
