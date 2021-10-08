@@ -6,6 +6,8 @@ Adds a build mode implementing WorldGuard. Was designed for AetherCraftMC to pre
 
 Requires WorldGuard 7.0 for 1.16 or higher
 
+A permissions plugin, such as LuckPerms, is reccomended for managing the user permissions defined in the plugin.yml
+
 ## Help
 
 Using /build will enter you in build mode. See [config.yml](https://github.com/DuppyIsCool/WGBuildMode/blob/master/WGBuildMode/src/config.yml) for options regarding the message position and build options
