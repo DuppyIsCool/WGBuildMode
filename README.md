@@ -1,6 +1,6 @@
 # WGBuildMode
 
-Adds a build mode for AetherCraft to prevent/allow players to build in certain WorldGuard regions
+Adds a build mode for certain WorldGuard Regions. Was designed for AetherCraftMC to prevent/allow their players to build in certain WorldGuard regions
 
 ### Dependencies
 
