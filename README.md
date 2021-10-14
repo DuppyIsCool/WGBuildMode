@@ -18,8 +18,4 @@ DuppyIsCool
 
 ## Version History
 
-* This Project was designed for 1.16.5 and is no longer being maintained.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
+* This Project was designed for 1.16.5 and is no longer being maintained. (However, it should be compatible with future versions)
